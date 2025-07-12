@@ -76,6 +76,14 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "天天": {
+      "api": "https://www.ttdm3.me/api.php/provide/vod",
+      "name": "天天动漫"
+    },
+    "kimivod": {
+      "api": "https://kimivod.com/api.php/provide/vod",
+      "name": "kimivod影视"
     }
   }
 }
