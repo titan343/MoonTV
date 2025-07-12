@@ -77,11 +77,11 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-    "tiantian": {
+    "ttdm": {
       "api": "https://www.ttdm3.me/api.php/provide/vod",
       "name": "天天动漫"
     },
-    "kimivod": {
+    "kimi": {
       "api": "https://kimivod.com/api.php/provide/vod",
       "name": "kimivod影视"
     }
