@@ -129,11 +129,6 @@ const Sidebar = ({ onToggle, activePath = '/' }: SidebarProps) => {
       href: '/douban?type=movie',
     },
     {
-      icon: Animation,
-      label: '动漫',
-      href: '/douban?type=animation',
-    },
-    {
       icon: Tv,
       label: '剧集',
       href: '/douban?type=tv',
