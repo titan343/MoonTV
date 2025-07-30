@@ -100,6 +100,22 @@
     "hongniu": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "name": "红牛资源"
+    },
+    "shubo": {
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "name": "速播资源"
+    },
+    "zeqaht": {
+      "api": "https://api.zeqaht.com/api.php/provide/vod",
+      "name": "zeqaht"
+    },
+    "suoni": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼"
+    },
+    "sdzy": {
+      "api": "https://sdzyapi.com/api.php/provide/vod",
+      "name": "闪电资源"
     }
   }
 }
