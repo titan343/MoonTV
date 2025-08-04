@@ -84,14 +84,6 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    },
-    ttdm: {
-        api: 'https://www.ttdm3.me/api.php/provide/vod',
-        name: '天天'
-    },
-     kimivod: {
-        api: 'https://kimivod.com/api.php/provide/vod',
-        name: 'kimi'
     }
   }
 }
