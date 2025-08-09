@@ -88,10 +88,6 @@
     "ttdm": {
       "api": "https://www.ttdm3.me/api.php/provide/vod",
       "name": "ttdm"
-    },
-    "kimivod": {
-      "api": "https://kimivod.com/api.php/provide/vod",
-      "name": "kimi"
     }
   }
 }
