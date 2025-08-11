@@ -11,8 +11,22 @@ export interface ChangelogEntry {
 
 export const changelog: ChangelogEntry[] = [
   {
+    version: "1.1.1",
+    date: "2025-08-12",
+    added: [
+      // 无新增内容
+    ],
+    changed: [
+    "修正 zwei 提供的 cors proxy 地址",
+    "移除废弃代码"
+    ],
+    fixed: [
+    "[运维] docker workflow release 日期使用东八区日期"
+    ]
+  },
+  {
     version: "1.1.0",
-    date: "2025-08-11",
+    date: "2025-08-12",
     added: [
     "每日新番放送功能，展示每日新番放送的番剧"
     ],
@@ -25,7 +39,7 @@ export const changelog: ChangelogEntry[] = [
   },
   {
     version: "1.0.5",
-    date: "2025-08-11",
+    date: "2025-08-12",
     added: [
       // 无新增内容
     ],
@@ -38,7 +52,7 @@ export const changelog: ChangelogEntry[] = [
   },
   {
     version: "1.0.4",
-    date: "2025-08-12",
+    date: "2025-08-11",
     added: [
     "优化版本管理工作流，实现单点修改"
     ],
